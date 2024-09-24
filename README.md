@@ -2,7 +2,7 @@
  
 Meu nome é Carlos Cesar
 - Estou realizando cursos na Alura
-- Estou estudando javascript, Html e Css.
+- Estou aprimorando meus estudos em Javascript, Html e Css.
 
   ### contato: cesynha@gmail.com
 ![](https://media.tenor.com/bJr-pbEcExIAAAAj/ryu-street-fighter.gif)

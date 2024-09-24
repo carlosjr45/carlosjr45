@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 💙
+## Seja bem vindo  ao meu perfil 💙
  
 Meu nome é Carlos Cesar
 - Estou realizando cursos na Alura
